@@ -1,0 +1,212 @@
+report_id,report_year,facility_id,jurisdiction_code,jurisdiction_facility_id,facility_name,registered_business_name,primary_anzsic_class_code,primary_anzsic_class_name,reduction_type,reduction_technique_id,reduction_technique_name,year_installed,comment_by_facility
+551296,2022/2023,516654,SA,SA0152,YALDARA ESTATE,1847 WINERY (SA) PTY LTD,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,
+551296,2022/2023,516654,SA,SA0152,YALDARA ESTATE,1847 WINERY (SA) PTY LTD,1214,Wine and Other Alcoholic Beverage Manufacturing,Pollution Control Devices,11,Wastewater treatment,2002.0,wastewater treatment plant updated in 2002
+549930,2022/2023,545702,WA,WA0685,3 Oceans Wine Company,3 OCEANS WINE COMPANY PTY LTD,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,26,Installation of high-pressure/low-volume cleaning equipment,,high-pressure washer/ steam cleaner used in the winery
+549930,2022/2023,545702,WA,WA0685,3 Oceans Wine Company,3 OCEANS WINE COMPANY PTY LTD,1214,Wine and Other Alcoholic Beverage Manufacturing,Pollution Control Devices,11,Wastewater treatment,2008.0,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Pollution Control Devices,9,Activated carbon filter,2019.0,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,35,Community consultative committee,,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Pollution Control Devices,15,Dust monitor,2018.0,Dust extraction system
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,23,Changed production schedules to minimise equipment/feedstock changeovers,,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,24,"Modified process, equipment, layout, or piping",,Yes – modifying pack line to improve efficiency
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,25,"Improved procedures for loading, unloading or transfer operations",,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,26,Installation of high-pressure/low-volume cleaning equipment,,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,"On som
+"
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,28,Changed product specifications,,Yes – optimising efficiencies and reducing losses
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,29,Installed vapour recovery systems (VRS),,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,33,Use of cleaner raw materials,,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,
+547398,2022/2023,658102,NSW,1538,4 Pines Brewing Brookvale,4 PINES BREWING COMPANY WHOLESALE PTY LTD,1212,Beer Manufacturing,Pollution Control Devices,11,Wastewater treatment,2017.0,
+543918,2022/2023,546228,WA,WA0756,Daniel's Well,A O'MEEHAN AND CO.,143,Beef Cattle Feedlots (Specialised),Cleaner Production Activities,36,Other modifications / practices,,Remove and spread manure annually.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,35,Community consultative committee,,Stakeholder & Community Liaison Officer employed to improve communications with neighbors.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,Employed landfill best practices.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Used during construction and on hot days.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Continued landfill monitoring but upgraded the level of monitoring during construction activities.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,36,Other modifications / practices,,The landfill is almost fully rehabilitated as at November 2020.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Pollution Control Devices,16,Other pollution control equipment,2016.0,Leachate and gas extraction systems.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Pollution Control Devices,12,Thermal oxidiser,2000.0,Landfill gas exported under a long term contract to EDL for energy generation in ICEs and/or flaring.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Pollution Control Devices,11,Wastewater treatment,2016.0,Leachate treatment.
+551090,2022/2023,549268,VIC,00022863,DEALS ROAD LANDFILL,A.J. BAXTER PROPRIETARY LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,Implemented e-forms.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,36,Other modifications / practices,,Audited steam traps to ensure higher efficiency.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Pollution Control Devices,2,Fabric filter/baghouse,2020.0,Breather filter assemblies on Silo no1-3 replaced.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Pollution Control Devices,3,Wet scrubber,2004.0,
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Pollution Control Devices,4,Dry scrubber,2021.0,"Additional ducting installed throughout plant
+Further point source ducting installed in 2023"
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Pollution Control Devices,7,Biofilter,2004.0,"Additional Biofilter added in 2015. Biofilter Media changed 2023
+OCS implemented with monitoring and maintenance schedule
+New sprinklers systems installed"
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Pollution Control Devices,8,Low NOx burner,2020.0,New more efficient 10MW boiler installed. Co-fired with Natural Gas and Biogas
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Pollution Control Devices,11,Wastewater treatment,2011.0,"Additional aeration and agitation installed on aerobic ponds in 2023. 
+Level monitoring systems in place on ponds to ensure consistent flow rates
+Install additional agitation and recirculation in CAL to improve anaerobic performance and biogas generation"
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Pollution Control Devices,16,Other pollution control equipment,2015.0,Planted 100 trees to create windbreak to prevent rogue odours from leaving the site. New ducting installed to capture odours.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,35,Community consultative committee,,Community Engagement business engaged to manage information about business
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,Use of tree screening for wind breaks.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,"Sprays used at biofilters, biofilter medium replaced 2023."
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,29,Installed vapour recovery systems (VRS),,"New ducting installed on site to capture more vapours, new condensor installed to increase recovery, upgrade to vapour extraction ducting throughout multiple plants."
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,Installation of new wastewater pump to reduce intermittent flow and produce better quality wastewater.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,26,Installation of high-pressure/low-volume cleaning equipment,,Purchase of pressure cleaner to reduce water consumption during truck cleaning. Steam regulating nozzles fitted to hoses to increase efficiency.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,25,"Improved procedures for loading, unloading or transfer operations",,
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,Increased use of third party audits to help with preventative maintenance. Environmental Management Plan in place. Additional surveys incorporated to ensure environmental compliance. Digitised of preventative maintenance.
+543148,2022/2023,494660,NSW,836,A J Bush and Sons Riverstone,A.J. BUSH & SONS (MANUFACTURES) PTY LTD,1111,Meat Processing,Cleaner Production Activities,24,"Modified process, equipment, layout, or piping",,New ducting installed on site to capture more vapours. Thermal audit performed.
+548306,2022/2023,552936,SA,SA0467,Finniss Park Piggery,A.L GOSS & A.W GOSS & G.J TISS & J.M TISS,192,Pig Farming,Cleaner Production Activities,36,Other modifications / practices,,Local earthmover turns straw bedding waste into compost
+543006,2022/2023,674366,SA,SA0748,AAA Asphalt PTY LTD,AAA ASPHALT PTY LTD,1709,Other Petroleum and Coal Product Manufacturing,Pollution Control Devices,2,Fabric filter/baghouse,2021.0,
+549890,2022/2023,513342,QLD,Q080COL001,ABBOT POINT OPERATIONS P/L,ABBOT POINT OPERATIONS P/L,5212,Port and Water Transport Terminal Operations,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,Scada monitors oil levels on most equipment and will shutdown if too much oil is lost. Scada alarms are in place for hydraulic brake systems which shut down system if pump starts exceed X number of starts  which reduces oil spills from litres to millilitres for this system.
+549890,2022/2023,513342,QLD,Q080COL001,ABBOT POINT OPERATIONS P/L,ABBOT POINT OPERATIONS P/L,5212,Port and Water Transport Terminal Operations,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,E&C department inspection schedule and other department inspections
+549890,2022/2023,513342,QLD,Q080COL001,ABBOT POINT OPERATIONS P/L,ABBOT POINT OPERATIONS P/L,5212,Port and Water Transport Terminal Operations,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Water sprays used on conveyor and transfer points
+549890,2022/2023,513342,QLD,Q080COL001,ABBOT POINT OPERATIONS P/L,ABBOT POINT OPERATIONS P/L,5212,Port and Water Transport Terminal Operations,Cleaner Production Activities,36,Other modifications / practices,,Variable height stacker
+549890,2022/2023,513342,QLD,Q080COL001,ABBOT POINT OPERATIONS P/L,ABBOT POINT OPERATIONS P/L,5212,Port and Water Transport Terminal Operations,Pollution Control Devices,11,Wastewater treatment,2009.0,All sewage waste is treated at the on site Sewage Treatment Plant
+549890,2022/2023,513342,QLD,Q080COL001,ABBOT POINT OPERATIONS P/L,ABBOT POINT OPERATIONS P/L,5212,Port and Water Transport Terminal Operations,Pollution Control Devices,15,Dust monitor,2016.0,There are 8 x depositional dust gauges on site and 4 x PM10 E-Samplers and 1 BAM (PM10)
+549890,2022/2023,513342,QLD,Q080COL001,ABBOT POINT OPERATIONS P/L,ABBOT POINT OPERATIONS P/L,5212,Port and Water Transport Terminal Operations,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,"SAP, CMO, ACONEX"
+550924,2022/2023,686658,WA,WA1723,Abra Base Metals Project,ABRA MINING PTY LIMITED,807,Silver-Lead-Zinc Ore Mining,Cleaner Production Activities,26,Installation of high-pressure/low-volume cleaning equipment,,Wheel washdown unit
+550924,2022/2023,686658,WA,WA1723,Abra Base Metals Project,ABRA MINING PTY LIMITED,807,Silver-Lead-Zinc Ore Mining,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,All critical containment infrastructure is set up with level sensors
+550924,2022/2023,686658,WA,WA1723,Abra Base Metals Project,ABRA MINING PTY LIMITED,807,Silver-Lead-Zinc Ore Mining,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Routine inspections of all high-risk areas
+550924,2022/2023,686658,WA,WA1723,Abra Base Metals Project,ABRA MINING PTY LIMITED,807,Silver-Lead-Zinc Ore Mining,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Water carts and sprays on processing areas
+550924,2022/2023,686658,WA,WA1723,Abra Base Metals Project,ABRA MINING PTY LIMITED,807,Silver-Lead-Zinc Ore Mining,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,Fully enclosed concentrate shed
+550924,2022/2023,686658,WA,WA1723,Abra Base Metals Project,ABRA MINING PTY LIMITED,807,Silver-Lead-Zinc Ore Mining,Cleaner Production Activities,35,Community consultative committee,,ECTL Committee with the local traditional owner group
+551372,2022/2023,491976,NSW,630,Maclean Depot,ACCESS FUELS,3321,Petroleum Product Wholesaling,Pollution Control Devices,11,Wastewater treatment,2004.0,
+549868,2022/2023,518928,SA,SA0308,BERRI ESTATES LTD,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,24,"Modified process, equipment, layout, or piping",,"-Installation of a decanter and 2 flotation units in late 2017, providing the benefit of improving wine quality and saving on both warming and cooling processes
+-Hot water CIP system established mid 2016 for export production area, reducing the volumes of both water and chemicals required for cleaning
+"
+549868,2022/2023,518928,SA,SA0308,BERRI ESTATES LTD,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,Operate an ISO 14001 EMS including standard operating procedures and record keeping.
+549868,2022/2023,518928,SA,SA0308,BERRI ESTATES LTD,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Pollution Control Devices,11,Wastewater treatment,2006.0,The treatment plant in its current form and location has been operational since approximately 2006
+549868,2022/2023,518928,SA,SA0308,BERRI ESTATES LTD,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Pollution Control Devices,9,Activated carbon filter,2018.0,Used to treat incoming raw water
+549868,2022/2023,518928,SA,SA0308,BERRI ESTATES LTD,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,36,Other modifications / practices,,"-Wastewater treatment plant upgrade started March 2019, with scheduled completion by February 2020 - will result in higher quality wastewater
+-Electric forklifts used where possible, including production areas to reduce LPG consumption. WWTP also includes a gas flare
+-Site tap audits conducted throughout early 2018, on-going transition to ball valve taps to prevent leaks."
+549868,2022/2023,518928,SA,SA0308,BERRI ESTATES LTD,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,33,Use of cleaner raw materials,,"-New RWTP installed June 2018, supplying potable water to entire site. The better quality water will assist in improving multiple production and cleaning processes
+"
+549868,2022/2023,518928,SA,SA0308,BERRI ESTATES LTD,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Operate an ISO 14001 EMS including maintenance and monitoring scheduling
+551226,2022/2023,522720,TAS,TAS 360,Bay of Fires,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,Operate an ISO 14001 EMS including maintenance and monitoring scheduling
+551226,2022/2023,522720,TAS,TAS 360,Bay of Fires,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Operate an ISO 14001 EMS including maintenance and monitoring scheduling
+550274,2022/2023,516194,SA,SA0114,Hardy's Tintara Winery,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,Operate an ISO 14001 EMS including maintenance and monitoring scheduling
+550274,2022/2023,516194,SA,SA0114,Hardy's Tintara Winery,ACCOLADE WINES AUSTRALIA LIMITED,1214,Wine and Other Alcoholic Beverage Manufacturing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Operate an ISO 14001 EMS including maintenance and monitoring scheduling
+546484,2022/2023,500562,QLD,Q015ACE001,Ace Waste Pty Ltd,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,14,Opacity monitor,1994.0,
+546484,2022/2023,500562,QLD,Q015ACE001,Ace Waste Pty Ltd,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,13,Mist eliminator,1994.0,"Mist eliminator packing exit of Fluidised Bed Scrubber, Chevron Mist Eliminator"
+546484,2022/2023,500562,QLD,Q015ACE001,Ace Waste Pty Ltd,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,11,Wastewater treatment,1994.0,Sludge Filter Press
+546484,2022/2023,500562,QLD,Q015ACE001,Ace Waste Pty Ltd,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,10,Incineration/afterburner,1994.0,
+546484,2022/2023,500562,QLD,Q015ACE001,Ace Waste Pty Ltd,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,
+546484,2022/2023,500562,QLD,Q015ACE001,Ace Waste Pty Ltd,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,
+546484,2022/2023,500562,QLD,Q015ACE001,Ace Waste Pty Ltd,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,3,Wet scrubber,1994.0,
+547774,2022/2023,524810,VIC,00004069,Dandenong,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,10,Incineration/afterburner,2009.0,
+547774,2022/2023,524810,VIC,00004069,Dandenong,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,14,Opacity monitor,2009.0,
+547774,2022/2023,524810,VIC,00004069,Dandenong,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,
+547774,2022/2023,524810,VIC,00004069,Dandenong,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,2,Fabric filter/baghouse,2009.0,
+547774,2022/2023,524810,VIC,00004069,Dandenong,ACE WASTE PTY LTD,2921,Waste Treatment and Disposal Services,Pollution Control Devices,9,Activated carbon filter,2009.0,Activated Carbon and Lime injection system for treatment of metals and acids.
+550696,2022/2023,666598,QLD,Q020BEL001,Carmichael Coal Mine,ADANI MINING PTY LTD,600,Coal Mining,Pollution Control Devices,11,Wastewater treatment,2020.0,
+550696,2022/2023,666598,QLD,Q020BEL001,Carmichael Coal Mine,ADANI MINING PTY LTD,600,Coal Mining,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Waters trucks used to apply water to roads/ Dust suppression sprays on conveyors and infeed hopper
+550696,2022/2023,666598,QLD,Q020BEL001,Carmichael Coal Mine,ADANI MINING PTY LTD,600,Coal Mining,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,installed at Main diesel tank farm
+550094,2022/2023,516452,SA,SA0134,Adchem (Australia) Pty Ltd,ADCHEM (AUSTRALIA) PTY. LTD.,1813,Basic Inorganic Chemical Manufacturing,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,"During the reporting period, road maintenance was undertaken and a dust suppression program implemented. Watering of the roadways was undertaken at frequencies determined by a variety of factors, including meteorological conditions and traffic rate. A Site Dust Management Procedure under the Environmental Management System has been prepared and implemented."
+550094,2022/2023,516452,SA,SA0134,Adchem (Australia) Pty Ltd,ADCHEM (AUSTRALIA) PTY. LTD.,1813,Basic Inorganic Chemical Manufacturing,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,"During the reporting period, 2370L of dust suppressant was applied to the internal roadways"
+550094,2022/2023,516452,SA,SA0134,Adchem (Australia) Pty Ltd,ADCHEM (AUSTRALIA) PTY. LTD.,1813,Basic Inorganic Chemical Manufacturing,Cleaner Production Activities,35,Community consultative committee,,On going on community engagement and maintaining of the community engagement register
+550094,2022/2023,516452,SA,SA0134,Adchem (Australia) Pty Ltd,ADCHEM (AUSTRALIA) PTY. LTD.,1813,Basic Inorganic Chemical Manufacturing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Ongoing - GLC monitoring for Ammonia 
+550094,2022/2023,516452,SA,SA0134,Adchem (Australia) Pty Ltd,ADCHEM (AUSTRALIA) PTY. LTD.,1813,Basic Inorganic Chemical Manufacturing,Pollution Control Devices,11,Wastewater treatment,2023.0,Install a Ultra Filtration system to reuse Ultra Filtration backwash water from the ROWTP pre treatment. Reduce the waste water generation
+550094,2022/2023,516452,SA,SA0134,Adchem (Australia) Pty Ltd,ADCHEM (AUSTRALIA) PTY. LTD.,1813,Basic Inorganic Chemical Manufacturing,Cleaner Production Activities,24,"Modified process, equipment, layout, or piping",,"Continued with the Ammonia Emissions Reduction EI
+
+"
+550094,2022/2023,516452,SA,SA0134,Adchem (Australia) Pty Ltd,ADCHEM (AUSTRALIA) PTY. LTD.,1813,Basic Inorganic Chemical Manufacturing,Cleaner Production Activities,36,Other modifications / practices,,Continue with implementing SCADA in the plant to improve monitoring
+547944,2022/2023,517120,SA,SA0183,Adelaide Airport Aviation Fuel Facility,ADELAIDE AIRPORT LTD,3321,Petroleum Product Wholesaling,Pollution Control Devices,11,Wastewater treatment,1990.0,
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,On-going
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,3,Wet scrubber,1982.0,Hydrator
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,23,Changed production schedules to minimise equipment/feedstock changeovers,,
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,24,"Modified process, equipment, layout, or piping",,Transportation of raw materials during day shifts only to mitigate road noise and traffic.
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,25,"Improved procedures for loading, unloading or transfer operations",,On-going. Silo blow back lines with isolation valves.
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,1,Electrostatic precipitator,1952.0,"Year of installation for Kiln 1 electrofilter was 1952, year of installation for Kiln 2 electrofilter was 1980/81"
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,2,Fabric filter/baghouse,2002.0,"Kiln 3 Exhaust 2002, Kiln 3 Cooler 1993."
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,"During 2013 the site purchased a portable fog/mist spray unit which  is used for suppressing dust plumes created during numerous activities on site
+A road sweeper and water cart are used to minimise dust."
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,33,Use of cleaner raw materials,,
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,"Fencing lined with mesh is used to minimise fugitive dust
+Rapid raise doors to gantry building"
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,All silos have overflow alarms and automatic shut-off valves
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,28,Changed product specifications,,
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,30,Modified packaging,,
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,On-going
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,14,Opacity monitor,1998.0,"Kilns 1, 2 & 3 stacks"
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,8,Low NOx burner,2006.0,Kiln 3 Gyrotherm Low Nox burner
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,6,Cyclone/multiclone,1952.0,Kiln 1 & coolerstack
+548038,2022/2023,514886,SA,SA0029,Angaston Special Products,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,35,Community consultative committee,,
+547128,2022/2023,527140,VIC,00004350,Batesford Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Sprays used on plant and stockpiles to eliminate dust emissions
+547128,2022/2023,527140,VIC,00004350,Batesford Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Pollution Control Devices,16,Other pollution control equipment,2021.0,Installed a high efficiency water pump which resulted in a 39% decrease in kwh/megalitre pumped.
+547128,2022/2023,527140,VIC,00004350,Batesford Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,ISO 14001 & 9001 ACCREDITATION MARCH 2020
+547128,2022/2023,527140,VIC,00004350,Batesford Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,ISO 14001 & 9001 ACCREDITATION MARCH 2020
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,36,Other modifications / practices,,"The site installed a x-ray diffraction unit which helps identify contaminant sources
+
+Upgrade of the main Cooler Baghouse Controller and Particulate Detection System."
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,35,Community consultative committee,,
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,"The site has wind breaks (fences lined with mesh) & enclosed stockpiles. Two  external stockpiles (gypsum & limestone) have been relocated into a shed as part of the CM7 expansion.
+
+Completion of a slag bunker to reduce fugitive dust
+
+Installed a five-metre-high, three sided concrete bunker to store/contain raw material
+
+Rapid raise doors have been installed onsite to reduce fugitive dust
+
+Mesh canopies (2 metres high and 2 metres horizontal) erected on stockpile bay walls
+
+Canopy erected over slag dryer loading hopper to reduce dust
+
+Fully enclosed ground level dust capturing hopper installed on slag dryer
+
+A canopy erected over the gypsum loading hopper."
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Daily plant audits/inspections
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,27,Installed overflow alarms or automatic shut-off valves,,"All silos have overflow alarms and automatic shut-off valves
+"
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,25,"Improved procedures for loading, unloading or transfer operations",,Installation of 9 rapid raise doors throughout the site to reduce fugitive dust.
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,24,"Modified process, equipment, layout, or piping",,"Cement kiln dust is now recycled back into the process meaning less goes to landfill and a reduction in transport of materials
+
+Installed a new fully enclosed conveyor system to allow all internal site clinker (or raw material) movements to occur without the use of trucks."
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,23,Changed production schedules to minimise equipment/feedstock changeovers,,
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,16,Other pollution control equipment,,"To minimise dust emissions a new gantry annex with a rapid raise door was constructed at the northern most end of the main clinker storage facility
+
+An automated rapid raise door was installed at the Wallaroo Shed to minimise fugitive dust
+
+A new fully enclosed shiploader with dust collector has been installed
+
+9 automated rapid raise doors are located on site to combat fugitive dust
+
+A second truck wash was installed onsite in 2015 which recycles the water used."
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,15,Dust monitor,2013.0,"All ambient air monitors upgraded & comprehensive reporting system linked to central control
+
+There are a significant amount of dust collectors onsite for monitoring purposes (over 50)."
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,14,Opacity monitor,1990.0,Each stack.
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,2,Fabric filter/baghouse,1994.0,
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Pollution Control Devices,1,Electrostatic precipitator,1995.0,
+548104,2022/2023,514850,SA,SA0027,Birkenhead Plant,ADELAIDE BRIGHTON CEMENT LIMITED,2031,Cement and Lime Manufacturing,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,"Limestone stockpile dust suppression
+
+Road sweeper and water carts used for dust suppression on roads
+
+Upgrade of the emission control spray cooling equipment to a state-of-the-art dual phase compressor air & water system
+
+Automated foam/dust suppression system at fringe material loading hopper
+
+Water spray system installed on limestone reclaimer
+
+Use of a road stabilisation/hardening agent to all unsealed traffic surfaces around the site
+
+Bitumen sealing of approximately 5,000 square metres of high heavy traffic unsealed surfaces."
+547262,2022/2023,565926,SA,SA0565,Blanchetown Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,3 monthly HSE audits.
+547262,2022/2023,565926,SA,SA0565,Blanchetown Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,Fuel tanks have sight glasses to indicate leaks. 3 monthly HSE audits.
+547262,2022/2023,565926,SA,SA0565,Blanchetown Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Sprinklers - waste deposit area
+547262,2022/2023,565926,SA,SA0565,Blanchetown Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,2921,Waste Treatment and Disposal Services,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,CKD stockpile covered
+547270,2022/2023,514868,SA,SA0028,Klein Point Mine,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,"Watercart and rehabilitation.
+
+A dust suppression system on the crusher and conveyor system has been installed."
+547270,2022/2023,514868,SA,SA0028,Klein Point Mine,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,Wind breaks and rehabilitation.
+547242,2022/2023,657300,SA,SA0731,Moculta Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Water cart
+547242,2022/2023,657300,SA,SA0731,Moculta Quarry,ADELAIDE BRIGHTON CEMENT LIMITED,990,Other Non-Metallic Mineral Mining and Quarrying,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,21,"Improved maintenance scheduling, record keeping, or procedures",,On going
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,24,"Modified process, equipment, layout, or piping",,Passive engineering control to enclose stockpiles and transfer points.
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,25,"Improved procedures for loading, unloading or transfer operations",,Maintaining sprinklers after the truck wash and all truck loads are covered. Relocation of some stockpiles in protected areas.
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,26,Installation of high-pressure/low-volume cleaning equipment,,Truck wash and wheel wash
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,31,Implemented inspection or monitoring program for potential spill or leak sources,,"Regular inspections undertake
+Air Quality monitoring under EPA approved Dust Management Plan"
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,32,Dust suppression - water sprays/chemical suppression,,Water and chemical based dust suppression on crushing plant. Real time PM10 dust monitors installed around the site. Water truck around the site.
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,34,Dust suppression - wind breaks/covered/enclosed stockpiles,,"Shrouding stockpiles. Stockpile suppressant (crusting)
+Second water truck used for dust suppression on haul road and stockpile
+Shed enclosures installed for fine products"
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Cleaner Production Activities,35,Community consultative committee,,6 monthly community meetings – February and August continuing
+547162,2022/2023,514800,SA,SA0024,Penrice Quarry & Mineral,ADELAIDE BRIGHTON CEMENT LIMITED,919,Other Construction Material Mining,Pollution Control Devices,15,Dust monitor,2009.0,Real time dust monitoring PM10
