@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scatter Plot and Map Visualization</title>
+
+    <!-- Embed CSS in the <style> tag -->
+    <style>
+        /* Flexbox layout for scatter plot and map */
+        .container {
+            display: flex;
+            flex-wrap: wrap; /* Ensures wrapping when container is too narrow */
+            justify-content: space-between; /* Adds space between elements */
+            max-width: 100%; /* Ensure container takes the full width */
+        }
+        .scatter, .map {
+            width: 45%; /* Reduced width for each chart */
+            max-width: 600px; /* Set maximum width for larger screens */
+            min-width: 300px; /* Set minimum width to avoid overly shrinking */
+            padding: 10px;
+            box-sizing: border-box; /* Include padding in width calculation */
+        }
+        @media (max-width: 900px) {
+            .scatter, .map {
+                width: 100%; /* When screen width is small, charts go full width */
+            }
+        }
+    </style>
+
+    <!-- Vega/Vega-Lite library -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+<h1>Scatter Plot and Map Visualization</h1>
+
+<!-- Flexbox container to hold both visualizations -->
+<div class="container">
+    <!-- Scatter Plot -->
+    <div id="scatter" class="scatter"></div>
+
+    <!-- Map -->
+    <div id="map" class="map"></div>
+</div>
+
+<script type="text/javascript">
+        // Scatter plot Vega-Lite spec
+        var scatterSpec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": 400,  // Reduced width
+            "height": 400,  // Reduced height for better fit
+            "title": "Emission Reduction Techniques by Installation Year",
+            "data": {
+                "url": "https://raw.githubusercontent.com/g-vohra/DataVis2/refs/heads/main/data/EMMISSIONS.csv"
+            },
+            "params": [
+                {
+                    "name": "year_installed_filter",
+                    "value": 2000,
+                    "bind": {
+                        "input": "range",
+                        "min": 1900,
+                        "max": 2023,
+                        "step": 1,
+                        "name": "Installation Year after: "
+                    }
+                },
+                {
+                    "name": "jurisdiction_selection",
+                    "bind": {
+                        "input": "select",
+                        "options": [null, "SA", "WA", "NSW", "VIC", "QLD"],
+                        "labels": ["Show All", "South Australia", "Western Australia", "New South Wales", "Victoria", "Queensland"],
+                        "name": "Jurisdiction: "
+                    }
+                }
+            ],
+            "transform": [
+                {"filter": "datum.year_installed >= year_installed_filter || isNaN(datum.year_installed)"},
+                {
+                    "filter": "jurisdiction_selection == null || datum.jurisdiction_code == jurisdiction_selection"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "year_installed",
+                    "type": "quantitative",
+                    "title": "Year Installed",
+                    "scale": {"domain": [1995, 2023]},
+                    "axis": {"tickCount": 10}
+                },
+                "y": {
+                    "field": "reduction_technique_id",
+                    "type": "quantitative",
+                    "title": "Percentage C02 Reduced (%)"
+                }
+            },
+            "layer": [
+                {
+                    "mark": "circle",
+                    "encoding": {
+                        "size": {
+                            "field": "air_total_emission_kg",
+                            "type": "quantitative",
+                            "scale": {"range": [50, 500]},
+                            "legend": {"title": "Total Emission (kg)"}
+                        },
+                        "color": {
+                            "field": "jurisdiction_code",
+                            "type": "nominal",
+                            "legend": {"title": "Jurisdiction"}
+                        },
+                        "tooltip": [
+                            {"field": "facility_name", "type": "nominal", "title": "Facility Name"},
+                            {"field": "reduction_type", "type": "nominal", "title": "Reduction Type"},
+                            {"field": "year_installed", "type": "quantitative", "title": "Year Installed"},
+                            {"field": "jurisdiction_code", "type": "nominal", "title": "Jurisdiction"},
+                            {"field": "reduction_technique_id", "type": "quantitative", "title": "Percentage CO2 Reduced"}
+                        ]
+                    }
+                }
+            ]
+        };
+
+        // Map Vega-Lite spec
+        var mapSpec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": 400,  // Reduced width
+            "height": 400,  // Reduced height for better fit
+            "title": "Natural Resource Consumption Organisation Distribution in Australia",
+            "projection": {"type": "equalEarth"},
+            "layer": [
+                {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/g-vohra/DataVis2Map/main/js/AustralianMap.json",
+                        "format": {"type": "topojson", "feature": "STE_2021_AUST_GDA2020"}
+                    },
+                    "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+                },
+                {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/g-vohra/DataVis2Map/refs/heads/main/js/AustralianMap.json",
+                        "format": {"type": "topojson", "feature": "ne_110m_graticules_10"}
+                    },
+                    "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
+                },
+                {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/g-vohra/DataVis2Map/refs/heads/main/data/facilities.csv",
+                        "format": {"type": "csv"}
+                    },
+                    "mark": {"type": "circle", "tooltip": {"content": "data"}},
+                    "encoding": {
+                        "longitude": {"field": "longitude", "type": "quantitative"},
+                        "latitude": {"field": "latitude", "type": "quantitative"},
+                        "color": {"field": "state", "type": "nominal", "title": "State"},
+                        "size": {"value": 50},
+                        "tooltip": [
+                            {"field": "registered_business_name", "type": "nominal", "title": "Organization"},
+                            {"field": "state", "type": "nominal", "title": "State"},
+                            {"field": "main_activities", "type": "nominal", "title": "Main Activity"}
+                        ]
+                    }
+                }
+            ]
+        };
+
+        // Embed the updated scatter plot and map
+        vegaEmbed('#scatter', scatterSpec);
+        vegaEmbed('#map', mapSpec);
+    </script>
+</body>
+</html>
